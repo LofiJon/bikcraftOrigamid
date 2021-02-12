@@ -1,0 +1,36 @@
+.header{
+    width: 100%;
+    background: #fec63e;
+    padding: 10px 0;
+    position: fixed;
+    top: 0;
+}
+
+.menu_header{
+    text-align: right;
+
+}
+
+
+.menu_header ul li{
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.menu_header ul li a{
+
+   color: #000;
+   font-weight: bold;
+   text-transform: uppercase;
+   letter-spacing: .1rem;
+   font-size: 14px;
+   line-height: 20px;
+   padding: 10px 0;
+
+}
+
+.menu_header ul li a:hover{
+   color: #FFF;
+
+}
