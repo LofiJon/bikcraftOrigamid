@@ -12,6 +12,7 @@ p {
 
 img {
 	display: block;
+	max-width: 100%;
 }
 
 .btn {
@@ -219,6 +220,8 @@ img {
 	background: #000;
 	margin: 2px auto;
 }
+
+
 
 .produtos_lista li p {
 	padding: 10px 20px 20px 20px;
